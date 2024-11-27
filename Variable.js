@@ -1,5 +1,5 @@
 var maruf = 10;
 console.log(maruf);
-let tool = gfg;
-const variable = 78.99;
+let tool = 'gfg';
 console.log(tool);
+const variable = 78.99;
