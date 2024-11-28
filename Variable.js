@@ -3,3 +3,5 @@ console.log(maruf);
 let tool = 'gfg';
 console.log(tool);
 const variable = 78.99;
+
+console.log(variable);
