@@ -8,3 +8,4 @@ console.log(Masum);
 var Masum;
 console.log(Masum);
 var typeNull = null;
+console.log(typeNull);
