@@ -5,7 +5,7 @@ console.log(tool);
 const variable = 78.99;
 console.log(variable);
 console.log(Masum);
-var Masum;
+var Masum = 10;
 console.log(Masum);
 var typeNull = null;
 console.log(typeNull);
