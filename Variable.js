@@ -10,3 +10,4 @@ console.log(Masum);
 var typeNull = null;
 console.log(typeNull);
 var name = 'maruf';
+console.log(name);
