@@ -11,3 +11,4 @@ var typeNull = null;
 console.log(typeNull);
 var name = 'maruf';
 console.log(name);
+tool = 10;
