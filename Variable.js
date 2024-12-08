@@ -12,3 +12,4 @@ console.log(typeNull);
 var name = 'maruf';
 console.log(name);
 tool = 10;
+console.log(tool);
