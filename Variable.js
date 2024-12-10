@@ -14,3 +14,4 @@ console.log(name);
 tool = 10;
 console.log(tool);
 maruf = 'Atif';
+console.log(maruf);
