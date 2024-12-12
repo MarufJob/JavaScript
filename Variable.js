@@ -13,6 +13,7 @@ var name = 'maruf';
 console.log(name);
 tool = 10;
 console.log(tool);
+
 maruf = 'Fazley';
 console.log(maruf);
 maruf = 'Atif';
