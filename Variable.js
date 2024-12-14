@@ -18,3 +18,4 @@ console.log(maruf);
 maruf = 'Atif';
 console.log(maruf);
 maruf = 'Maruf';
+console.log(maruf);
