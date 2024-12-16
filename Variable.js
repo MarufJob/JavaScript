@@ -20,3 +20,4 @@ console.log(maruf);
 maruf = 'Maruf';
 console.log(maruf);
 var num = 30;
+console.log(num);
