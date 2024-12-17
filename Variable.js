@@ -21,3 +21,4 @@ maruf = 'Maruf';
 console.log(maruf);
 var num = 30;
 console.log(num);
+let number = 33;
