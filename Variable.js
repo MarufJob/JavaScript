@@ -24,3 +24,4 @@ console.log(num);
 let number = 33;
 console.log(number);
 let char = 'h';
+console.log(char);
