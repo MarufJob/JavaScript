@@ -26,3 +26,4 @@ console.log(number);
 let char = 'h';
 console.log(char);
 let string = 'Masum';
+console.log(string);
