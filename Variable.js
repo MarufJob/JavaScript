@@ -28,3 +28,4 @@ console.log(char);
 let string = 'Masum';
 console.log(string);
 let math = 55;
+console.log(math);
