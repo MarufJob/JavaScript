@@ -32,3 +32,4 @@ console.log(math);
 const bill = 500;
 console.log(bill);
 var loop = 5;
+var mill = 'Fish';
