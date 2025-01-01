@@ -34,3 +34,4 @@ console.log(bill);
 var loop = 5;
 console.log(loop);
 var mill = 'Fish';
+console.log(mill);
