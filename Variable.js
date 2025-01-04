@@ -37,3 +37,4 @@ var mill = 'Fish';
 console.log(mill);
 let cap = 5;
 console.log(cap);
+console.log(cap);
