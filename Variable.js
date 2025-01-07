@@ -40,3 +40,4 @@ console.log(cap);
 const cap = 7;
 console.log(cap);
 var food = "ricr";
+console.log(food);
