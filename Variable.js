@@ -43,3 +43,4 @@ var food = "ricr";
 console.log(food);
 let type = "array";
 console.log(type);
+var type = "null";
