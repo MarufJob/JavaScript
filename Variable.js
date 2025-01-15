@@ -47,3 +47,4 @@ var type = "null";
 console.log(type);
 const type = "function";
 console.log(type);
+var programming = "JS";
