@@ -50,3 +50,4 @@ console.log(type);
 var programming = "JS";
 console.log(programming);
 let programming = "C";
+console.log(programming);
