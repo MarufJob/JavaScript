@@ -52,3 +52,4 @@ console.log(programming);
 let programming = "C";
 console.log(programming);
 const programmimng = "C++";
+Console.log(programming);
